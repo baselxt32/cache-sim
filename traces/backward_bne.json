@@ -1,0 +1,6 @@
+{
+  "name": "backward bne",
+  "instructions": 8,
+  "base_cycles": 16,
+  "base_cpi": 2.0
+}

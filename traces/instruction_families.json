@@ -1,0 +1,6 @@
+{
+  "name": "instruction families",
+  "instructions": 24,
+  "base_cycles": 32,
+  "base_cpi": 1.3333333333333333
+}

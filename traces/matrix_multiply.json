@@ -1,0 +1,6 @@
+{
+  "name": "matrix multiply",
+  "instructions": 352,
+  "base_cycles": 484,
+  "base_cpi": 1.375
+}

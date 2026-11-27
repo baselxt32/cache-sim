@@ -1,0 +1,6 @@
+{
+  "name": "rv32m",
+  "instructions": 20,
+  "base_cycles": 170,
+  "base_cpi": 8.5
+}

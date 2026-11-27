@@ -1,0 +1,39 @@
+{
+  "traces": 24,
+  "configs_per_trace": 288,
+  "runs": 6912,
+  "unique_trace_accesses": 9525,
+  "simulated_accesses": 2743200,
+  "sizes_kib": [
+    1,
+    2,
+    4,
+    8,
+    16,
+    32
+  ],
+  "ways": [
+    1,
+    2,
+    4,
+    8
+  ],
+  "blocks_bytes": [
+    16,
+    32,
+    64,
+    128
+  ],
+  "policies": [
+    "lru",
+    "fifo",
+    "random"
+  ],
+  "l1i": "8K:2:32",
+  "l2": "64K:8:64",
+  "write_policy": "wbwa",
+  "l1_hit_cycles": 1,
+  "l2_hit_cycles": 10,
+  "memory_cycles": 100,
+  "seed": 1
+}

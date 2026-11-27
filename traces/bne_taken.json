@@ -1,0 +1,6 @@
+{
+  "name": "bne taken",
+  "instructions": 4,
+  "base_cycles": 10,
+  "base_cpi": 2.5
+}

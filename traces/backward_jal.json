@@ -1,0 +1,6 @@
+{
+  "name": "backward jal",
+  "instructions": 7,
+  "base_cycles": 15,
+  "base_cpi": 2.142857142857143
+}

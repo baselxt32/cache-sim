@@ -1,0 +1,6 @@
+{
+  "name": "bge not taken",
+  "instructions": 5,
+  "base_cycles": 9,
+  "base_cpi": 1.8
+}

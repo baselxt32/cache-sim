@@ -1,0 +1,6 @@
+{
+  "name": "directed",
+  "instructions": 12,
+  "base_cycles": 21,
+  "base_cpi": 1.75
+}
